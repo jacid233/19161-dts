@@ -67,7 +67,7 @@
 				qcom,mdss-dsi-v-bottom-border = <0>;
 				qcom,mdss-dsi-panel-jitter = <0x4 0x1>;
 				oplus,fod-on-vblank = <1>;
-				oplus,fod-off-vblank = <1>;
+				oplus,fod-off-vblank = <0>;
 				qcom,mdss-dsi-timing-switch-command = [
 					39 01 00 00 00 00 06 F0 55 AA 52 08 00
 					15 01 00 00 00 00 02 6F 03

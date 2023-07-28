@@ -324,7 +324,7 @@
 				qcom,display-topology = <1 1 1>;
 				qcom,default-topology-index = <0>;
 				oplus,fod-on-vblank = <1>;
-				oplus,fod-off-vblank = <1>;
+				oplus,fod-off-vblank = <0>;
 				qcom,mdss-dsi-on-command = [
 					39 01 00 00 00 00 03 9f 5A 5A
 					15 01 00 00 00 00 02 9D 01
